@@ -1,0 +1,1 @@
+Usually fashion designers use to design there designs using clothes,materials and some accessories sometime we want to change the color of the cloth or want to change the accessory at that time you have to change everything. To avoid this we will develop an app using this first design a module if u want any changes then change it in this app only and design an original module.
